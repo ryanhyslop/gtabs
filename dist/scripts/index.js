@@ -61,7 +61,7 @@
     })();
     /*
         Went for a typescript class here with a view that they could be multiple instances
-        Essentially compiles down to an iffy that returns a function with all instance methods
+        Essentially compiles down to an iife that returns a function with all instance methods
         set on prototype (ie. NewsTabber.prototype.createTabForSection);
      */
     var NewsTabber = /** @class */ (function () {
