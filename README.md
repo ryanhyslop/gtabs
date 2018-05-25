@@ -4,13 +4,12 @@ A tabbing component for sections of latest news from the Guardian API.
 
 ### To view
 
-`npm install`
-`npm run serve`
+`npm install && npm run serve`
 
 Or just open the contents of the `dist` directory.
 
 #### Note
-For IE8 & 9 to work https must be set up, or you can quickly switch the https to http.
+For IE8 & 9 to work https must be set up, or you can quickly switch the api url from https to http & re-run `npm run serve`.
 
 ### Considerations
 
