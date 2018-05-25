@@ -1,11 +1,11 @@
-#GTabber
+# GTabber
 
 A tabbing component for sections of latest news from the Guardian API.
 
 ### To view
 
 `npm install`
-`npm serve`
+`npm run serve`
 
 Or just open the contents of the `dist` directory.
 
