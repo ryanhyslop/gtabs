@@ -1,4 +1,4 @@
-# GTabber
+# GTabs
 
 A tabbing component for sections of latest news from the Guardian API.
 
