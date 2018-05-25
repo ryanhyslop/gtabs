@@ -4,13 +4,13 @@
   "description": "A simple tabber component",
   "main": "index.js",
   "scripts": {
-    "test": "test",
     "build": "rm -fR dist/scripts && tsc src/index.ts --outDir dist/scripts",
     "serve": "npm run build && http-server dist/"
   },
   "author": "Ryan Hyslop",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "typescript": "^2.8.3"
   }
 }
